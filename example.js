@@ -1,3 +1,4 @@
 console.log("Hello from example.js");
 
-const double = (x) => x * 2;
+const triple = (x) => x * 3;
+const repeat = (str, num) => str.repeat(num);
